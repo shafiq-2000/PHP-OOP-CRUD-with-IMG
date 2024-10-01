@@ -1,0 +1,8 @@
+CRUD with PHP OOP with image.
+Data insert by 2 way:- 1-data insert from same page 2-data insert by using modal
+
+Display popup: used toastr package.
+
+database name:- taskmanager
+table name:- persons
+column nam:- `id`, `name`, `email`, `address`, `image`, `status`, `date`
